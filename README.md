@@ -4,9 +4,9 @@
 This project analyzes dummy healthcare data to uncover insights related to insurance claims, patient demographics, disease distribution, doctor performance, and treatments. The goal is to leverage data cleaning, SQL processing, and Power BI visualizations to create a comprehensive view of healthcare operations.
 
 ## Files
-- **healthcare_data.csv** – Cleaned healthcare dataset in CSV format.
+- **healthcare.csv** – Cleaned healthcare dataset in CSV format.
 - **healthcare_analysis.sql** – SQL queries used for data transformation and analysis.
-- **Healthcare Dashboard.pbix** – Power BI dashboard visualizing healthcare insights.
+- **Healthcare_analysis.pbix** – Power BI dashboard visualizing healthcare insights.
 
 ## Key Insights
 - 🏥 **Insurance & Claims** – Total claim amounts, average claim per provider, and patient distribution by insurance providers.  
